@@ -4,7 +4,6 @@ import classNames from 'classnames'
 
 
 const Pizza = ({name, imageUrl, price, types, sizes}) => {
-
     const availableTypes = ['Тонкое', 'Традиционное']
     const availableSizes = [26, 30, 40]
 
